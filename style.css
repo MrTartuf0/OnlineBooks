@@ -41,16 +41,6 @@ section{
     grid-template-columns: repeat(5,1fr);
     gap: 32px;
 }
-@media only screen and (max-width: 1400px) {
-    section{
-        grid-template-columns: repeat(4,1fr);
-    }
-}
-@media only screen and (max-width: 1100px) {
-    section{
-        grid-template-columns: repeat(3,1fr);
-    }
-}
 
 
 section > a {
@@ -71,3 +61,40 @@ section > a:hover{
     transform: translate(0);
     box-shadow: none;
 }
+
+@media only screen and (max-width: 1400px) {
+    section{
+        grid-template-columns: repeat(4,1fr);
+    }
+}
+@media only screen and (max-width: 1100px) {
+    section{
+        grid-template-columns: repeat(3,1fr);
+    }
+}
+@media only screen and (max-width: 600px) {
+    section{
+        grid-template-columns: repeat(2,1fr);
+    }
+    section > a {
+        height: 200px;
+    }
+}
+
+body {
+    animation-duration: 0.5s;
+    animation-name: animate-pop;
+    animation-timing-function: cubic-bezier(.26, .53, .74, 1.48);
+  }
+  
+  @keyframes animate-pop {
+    0% {
+      opacity: 0;
+      transform: scale(0.5, 0.5);
+    }
+  
+    100% {
+      opacity: 1;
+      transform: scale(1, 1);
+    }
+  }
