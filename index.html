@@ -54,13 +54,17 @@
          <a href="https://my.bsmart.it/#/classbooks">
             <img src="./img/pro-tech-b.jpg">
         </a>
-        
+                                           
+        <h1>This page got <span id="visits"></span> views.</h1>
      
     </section>
 
 
+    <script src="https://api.countapi.xyz/hit/florin-pop.com/visits?callback=liveViews" async></script>
     <script>
-        
+        function liveViews(response) {
+            document.getElementById('visits').innerText = response.value;
+        }
     </script>
 </body>
 </html>
