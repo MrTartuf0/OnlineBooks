@@ -12,6 +12,13 @@ body{
     align-items: center;
 }
 
+h1{
+    position: absolute;
+    bottom: 24px;
+    right: 24px;
+    font-size: 24px;
+}
+
 nav{
     margin: 27px 0 59px 0;
     display: flex;
