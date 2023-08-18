@@ -1,3 +1,18 @@
+# Online Books for School
+> An accessible [website](https://onlineb00ks.netlify.app/) for finding my school books,
+> built with Svelte-Kit, TailwindCSS, and Netlify
+
+## Useful tools for retrieving PDFs from textbooks
+
+
+[Pearson](https://github.com/jyooru/pearson-pdf)
+
+[bSmart / Atlas / HOEPLI](https://github.com/Leone25/bSmart-downloader)
+
+[ZANICHELLI](https://github.com/Leone25/kitaboo-downloader)
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
