@@ -14,10 +14,15 @@
 
 ## List of the books of this year, and their links
 Qualcosa che sorprende 3.1 https://place.sanomaitalia.it/prodotti_digitali
+
 Qualcosa che sorprende 3.2 https://place.sanomaitalia.it/prodotti_digitali
+
 Nuovo Gestione del progetto e organizzazione d'impresa https://my.bsmart.it/#/books
+
 Nuovo Sistemi e reti 3 https://my.bsmart.it/#/books
+
 Nuovo Tecnologie e Progettazione di sistemi informatici e di telecomunicazioni https://my.bsmart.it/#/books
+
 Pro.tech C https://my.bsmart.it/#/books
 
 # create-svelte
