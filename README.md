@@ -12,6 +12,9 @@
 [ZANICHELLI](https://github.com/Leone25/kitaboo-downloader)
 
 
+## List of the books of this year, and their links
+Qualcosa che sorprende 3.1 https://place.sanomaitalia.it/prodotti_digitali
+
 
 # create-svelte
 
