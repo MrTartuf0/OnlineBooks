@@ -9,10 +9,10 @@ function __memo(fn) {
 return {
 	appDir: "_app",
 	appPath: "_app",
-	assets: new Set(["favicon.png"]),
-	mimeTypes: {".png":"image/png"},
+	assets: new Set(["favicon.png","grammar-hub.jpg","matematica-verde-4.jpg","nuovo-gestione-del-progetto-e-organizzazione-d-impresa.jpg","nuovo-sistemi-e-reti-3.jpg","pro-tech-c.jpg","qualcosa-che-sorprende-3-1.jpg","qualcosa-che-sorprende-3-2.jpg","storia-in-movimento-3.jpg","working-with-new-technology.jpg"]),
+	mimeTypes: {".png":"image/png",".jpg":"image/jpeg"},
 	_: {
-		client: {"start":"_app/immutable/entry/start.b5e575ee.js","app":"_app/immutable/entry/app.1c01339c.js","imports":["_app/immutable/entry/start.b5e575ee.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.6ce8577b.js","_app/immutable/entry/app.1c01339c.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.0719bd3d.js"],"stylesheets":[],"fonts":[]},
+		client: {"start":"_app/immutable/entry/start.34a83f49.js","app":"_app/immutable/entry/app.81a39aae.js","imports":["_app/immutable/entry/start.34a83f49.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/singletons.0bd2a8b6.js","_app/immutable/entry/app.81a39aae.js","_app/immutable/chunks/scheduler.e108d1fd.js","_app/immutable/chunks/index.0719bd3d.js"],"stylesheets":[],"fonts":[]},
 		nodes: [
 			__memo(() => import('../server/nodes/0.js')),
 			__memo(() => import('../server/nodes/1.js')),
