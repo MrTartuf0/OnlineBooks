@@ -13,17 +13,19 @@
 
 
 ## List of the books of this year, and their links
-Qualcosa che sorprende 3.1 https://place.sanomaitalia.it/prodotti_digitali
+Qualcosa che sorprende 3.1 [pearson](https://place.sanomaitalia.it/prodotti_digitali)
 
-Qualcosa che sorprende 3.2 https://place.sanomaitalia.it/prodotti_digitali
+Qualcosa che sorprende 3.2 [pearson](https://place.sanomaitalia.it/prodotti_digitali)
 
-Nuovo Gestione del progetto e organizzazione d'impresa https://my.bsmart.it/#/books
+Storia in Movimento 3 [hubscuola.it](https://www.hubscuola.it/)
 
-Nuovo Sistemi e reti 3 https://my.bsmart.it/#/books
+Nuovo Gestione del progetto e organizzazione d'impresa [bsmart.it](https://my.bsmart.it/#/books)
 
-Nuovo Tecnologie e Progettazione di sistemi informatici e di telecomunicazioni https://my.bsmart.it/#/books
+Nuovo Sistemi e reti 3 [bsmart.it](https://my.bsmart.it/#/books)
 
-Pro.tech C https://my.bsmart.it/#/books
+Nuovo Tecnologie e Progettazione di sistemi informatici e di telecomunicazioni [bsmart.it](https://my.bsmart.it/#/books)
+
+Pro.tech C [bsmart.it](https://my.bsmart.it/#/books)
 
 # create-svelte
 
