@@ -11,6 +11,8 @@
 
 [ZANICHELLI](https://github.com/Leone25/kitaboo-downloader)
 
+## Drive Folder with all the books parsed into pdf
+[Google Drive](https://drive.google.com/drive/folders/1ZsgoakGZC8-R2eGr94na2CvlSejN0g3S?usp=sharing)
 
 ## List of the books of this year, and their links
 Qualcosa che sorprende 3.1 [pearson](https://place.sanomaitalia.it/prodotti_digitali)
